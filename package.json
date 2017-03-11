@@ -1,0 +1,24 @@
+{
+  "name": "jest-templatecache-transformer",
+  "version": "0.0.1",
+  "description": "Jest transformer which handles html templates loaded from AngularJS templatecache",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcr85/jest-templatecache-transformer.git"
+  },
+  "keywords": [
+    "jest",
+    "templatecache",
+    "angularjs"
+  ],
+  "author": "Marek Kasprzak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcr85/jest-templatecache-transformer/issues"
+  },
+  "homepage": "https://github.com/mcr85/jest-templatecache-transformer#readme",
+  "dependencies": {
+    "ngtemplate-loader": "^1.3.1"
+  }
+}
